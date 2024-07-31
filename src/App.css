@@ -1,0 +1,156 @@
+.custom-navbar {
+  background-color: #6bc9d2;
+  padding: 10px 20px;
+}
+
+.brand-heading {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+}
+
+.nav-link,
+.dropdown-item {
+  color: #333;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+.nav-link:hover,
+.dropdown-item:hover {
+  color: #fff;
+}
+
+.custom-carousel {
+  margin-top: 20px;
+}
+
+.carousel-image {
+  height: 400px;
+  object-fit: cover;
+}
+
+.custom-footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.footer-section {
+  flex: 1 1 300px;
+  margin: 10px;
+}
+
+.footer-section h3 {
+  font-size: 18px;
+}
+
+.social-links {
+  list-style: none;
+  padding: 0;
+}
+
+.social-links li {
+  margin-bottom: 8px;
+}
+
+.social-links a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.social-links a:hover {
+  text-decoration: underline;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+button {
+  background-color: #1a6ca2;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Times New Roman', Times, serif;
+	/*background-image: url('');*/
+	/*background-size:cover;
+	background-position:0dvb;
+	font-size: large;
+	font-weight: 500;*/
+	font-family: 'Montserrat', sans-serif;
+	opacity: 2; 
+  }
+  .guide-card {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+  }
+  
+  .profile-details {
+	list-style: none;
+	padding: 0;
+	text-align: left;
+  }
+  
+  .profile-details li {
+	margin: 10px 0;
+	font-size: 1em;
+	color: #444;
+  }
+  
+  .contact-info {
+	margin-top: 20px;
+  }
+  
+  .contact-info p {
+	margin: 5px 0;
+	font-size: 1em;
+	color: #666;
+  }
+  
+  .contact-info a {
+	color: #3498db;
+	text-decoration: none;
+  }
+  
+  .contact-info a:hover {
+	text-decoration: underline;
+  }
+  
+  
+  .container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+	background-color: #f9f9f9;
+	
+  }
+  .container h1 {
+	color:black; 
+	text-align: center; 
+	font-size: 50px;
+	
+  }
+  

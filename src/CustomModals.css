@@ -1,0 +1,40 @@
+/* CustomModals.css */
+
+.custom-modal .modal-content {
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .custom-modal .modal-header {
+    background-color: #3498db;
+    color: white;
+    border-bottom: none;
+  }
+  
+  .custom-modal .modal-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .custom-modal .modal-body {
+    padding: 2rem;
+  }
+  
+  .custom-modal .form-control {
+    border-radius: 4px;
+    border-color: #ddd;
+    box-shadow: none;
+    padding: 10px;
+  }
+  
+  .custom-modal .btn-primary {
+    background-color: #3498db;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 15px;
+  }
+  
+  .custom-modal .btn-primary:hover {
+    background-color: #2980b9;
+  }
+  

@@ -1,0 +1,60 @@
+/* TravelGuideDetails.css */
+
+.container {
+    margin-top: 20px;
+  }
+  
+  .filter-form {
+    margin-bottom: 30px;
+  }
+  
+  .guide-card {
+    transition: transform 0.3s;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .guide-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .profile-details {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .profile-details li {
+    margin-bottom: 5px;
+  }
+  
+  .contact-info {
+    margin-top: 10px;
+  }
+  
+  .contact-info p {
+    margin: 0;
+  }
+  
+  h1 {
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .card-title {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  .form-label {
+    font-family: 'Arial', sans-serif;
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .form-control {
+    font-family: 'Arial', sans-serif;
+    font-size: 1rem;
+    color: #555;
+  }
+  
